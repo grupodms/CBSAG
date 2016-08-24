@@ -1,0 +1,22 @@
+ACCEDER AL PANEL DE CONTROL
+http://lg000185.ferozo.com:2082
+USUARIO:	lg000185
+CONTRASEÑA:	ZAwe55bano	
+
+
+DATOS DE ACCESO FTP
+ftp://ftp.lg000185.ferozo.com
+PUERTO:	21
+USUARIO:	lg000185
+CONTRASEÑA:	ZAwe55bano
+
+MSQL 
+
+Usuario lg000185_SAG
+Clave: ZAwe55bano
+Base de datos: lg000185_SAG
+Servidor: localhost
+
+
+soporte@cbsag.net
+Bachilleres123

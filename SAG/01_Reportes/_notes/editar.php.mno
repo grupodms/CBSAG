@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Reg_Tipo_Dererminante" value="name:id_determinante_tipo;datatype:int,name:deter_descripcion;datatype:string" />
+	<infoitem key="UD_Reg_Det" value="name:id_empleado;datatype:int,name:id_dependencia;datatype:int,name:numero_empleado;datatype:string,name:rfc;datatype:string,name:curp;datatype:string,name:nombre;datatype:string,name:puesto;datatype:string" />
+	<infoitem key="UD_Depenencia" value="name:id_dependencia;datatype:int,name:clave_dependencia;datatype:string,name:depen_descripcion;datatype:string" />
+	<infoitem key="UD_dEPENDENCIAS" value="name:id_dependencia;datatype:int,name:clave_dependencia;datatype:string,name:depen_descripcion;datatype:string" />
+</info>

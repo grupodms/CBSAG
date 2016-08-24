@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_N_Pago" value="name:idasem_pagos;datatype:int,name:idasem;datatype:int,name:fecha_pago;datatype:date,name:Referencia;datatype:string,name:importe;datatype:real,name:Fecha_inicio;datatype:date,name:Fecha_fin;datatype:date" />
+	<infoitem key="UD_Pago" value="name:idasem_pagos;datatype:int,name:idasem;datatype:int,name:fecha_pago;datatype:date,name:Referencia;datatype:string,name:importe;datatype:real,name:Fecha_inicio;datatype:date,name:Fecha_fin;datatype:date" />
+</info>

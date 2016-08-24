@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Area" value="name:id_area;datatype:int,name:id_dependencia;datatype:int,name:clave_area;datatype:string,name:des_area;datatype:string" />
+	<infoitem key="UD_Area3" value="name:id_usuario;datatype:int,name:email;datatype:string,name:password;datatype:string,name:reset_password;datatype:int,name:menu;datatype:string,name:id_perfil;datatype:int,name:nombre;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:todos_dependencias;datatype:int,name:id_dependencia;datatype:int,name:clave_dependencia;datatype:string,name:depen_descripcion;datatype:string" />
+</info>

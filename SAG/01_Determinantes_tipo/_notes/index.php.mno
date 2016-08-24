@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Record_Areas" value="name:id_determinante_tipo;datatype:int,name:deter_descripcion;datatype:string,name:id_determinantes;datatype:int,name:clave_determinante;datatype:string,name:id_determinante_tipo;datatype:int,name:comodato;datatype:int,name:comodato_fecha;datatype:datetime,name:donacion;datatype:int,name:donacion_fecha;datatype:datetime,name:descripcion;datatype:string,name:cuenta;datatype:string,name:cuenta2;datatype:string,name:cambs;datatype:string" />
+	<infoitem key="UD_Reg_Deter_tipo" value="name:id_determinante_tipo;datatype:int,name:deter_descripcion;datatype:string" />
+</info>

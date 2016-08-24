@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_area" value="name:id_area;datatype:int,name:id_dependencia;datatype:int,name:clave_area;datatype:string,name:des_area;datatype:string" />
+	<infoitem key="UD_consecutivo" value="name:id_consecutivo;datatype:int,name:id_dependencia;datatype:int,name:id_area;datatype:int,name:clave_conse;datatype:string,name:descripcion_consecutivo;datatype:string" />
+	<infoitem key="UD_tm" value="name:id_empleado;datatype:int,name:id_dependencia;datatype:int,name:id_empleado_tipo;datatype:int,name:matricula;datatype:string,name:rfc;datatype:string,name:curp;datatype:string,name:nombre;datatype:string,name:puesto;datatype:string,name:adcripcion;datatype:string,name:adcripcion_comision;datatype:string" />
+	<infoitem key="UD_tv" value="name:id_empleado;datatype:int,name:id_dependencia;datatype:int,name:id_empleado_tipo;datatype:int,name:matricula;datatype:string,name:rfc;datatype:string,name:curp;datatype:string,name:nombre;datatype:string,name:puesto;datatype:string,name:adcripcion;datatype:string,name:adcripcion_comision;datatype:string" />
+	<infoitem key="UD_resguardo_partidas" value="name:id_resguardo_partidas;datatype:int,name:id_resguardo;datatype:int,name:id_determinantes;datatype:int,name:clave_determinante;datatype:string,name:descripcion;datatype:string,name:cambs;datatype:string,name:unidades;datatype:int,name:id_estado_fisico;datatype:int,name:num_serie;datatype:string,name:entrada_vale;datatype:string,name:numero_inventario;datatype:string,name:observaciones;datatype:string,name:num_seriea;datatype:string,name:alta;datatype:int,name:baja;datatype:int" />
+	<infoitem key="UD_estado_fisico" value="name:id_estado_fisico;datatype:int,name:clave_estado_fisico;datatype:string,name:descripcion_estado_fisico;datatype:string" />
+</info>

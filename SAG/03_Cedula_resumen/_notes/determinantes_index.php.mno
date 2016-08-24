@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cedula_resumen_partidas" value="name:id_cedula_resumen_partidas;datatype:int,name:id_cedula_resumen;datatype:int,name:id_determinantes;datatype:int,name:cantidad;datatype:int,name:clave_determinante;datatype:string,name:descripcion;datatype:string,name:tecnica;datatype:string,name:autor;datatype:string,name:cuenta;datatype:string,name:cuenta2;datatype:string" />
+	<infoitem key="UD_cedula_resumen" value="name:id_cedula_resumen;datatype:int,name:id_periodo;datatype:int,name:semestre;datatype:string,name:id_dependencia;datatype:int,name:clave_dependencia;datatype:string,name:depen_descripcion;datatype:string" />
+</info>

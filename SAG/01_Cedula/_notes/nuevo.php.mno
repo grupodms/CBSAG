@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Ins_asem" value="name:idasem;datatype:int,name:idasem_canainpa;datatype:int,name:no_socio;datatype:string,name:rfc_socio;datatype:string,name:razon_social_socio;datatype:string,name:nombre_socio;datatype:string,name:apellido_socio;datatype:string,name:fecha_inicio;datatype:date,name:idServicio_Juridico_Capacitacion;datatype:int,name:idServicio_Contabilidad;datatype:int,name:idServicio_Admon_Personal;datatype:int,name:idServicio_Devo_IVA;datatype:int,name:Ultimo_Pago_Fecha;datatype:date,name:Ultimo_Fecha_Inicio;datatype:date,name:Ultimo_Fecha_Fin;datatype:date" />
+	<infoitem key="UD_S_Admon_personal" value="name:idServicio_Admon_Personal;datatype:int,name:descripcion;datatype:string" />
+	<infoitem key="UD_S_Conta" value="name:idServicio_Contabilidad;datatype:int,name:descripcion;datatype:string" />
+	<infoitem key="UD_S_Devo_IVA" value="name:idServicio_Devo_IVA;datatype:int,name:descripcion;datatype:string" />
+	<infoitem key="UD_S_Juridico" value="name:idServicio_Juridico_Capacitacion;datatype:int,name:descripcion;datatype:string" />
+	<infoitem key="UD_Canainpa" value="name:idcanainpa;datatype:int,name:idasem_canainpa;datatype:int,name:no_socio;datatype:string,name:rfc_socio;datatype:string,name:razon_social_socio;datatype:string,name:nombre_socio;datatype:string,name:apellido_socio;datatype:string,name:fecha_inicio;datatype:date,name:Servicio_Juridico_Capacitacion;datatype:int,name:Servicio_Contabilidad;datatype:int,name:Servicio_Admon_Personal;datatype:int,name:Servicio_Devo_IVA;datatype:int" />
+	<infoitem key="UD_Cana" value="name:idcanainpa;datatype:int,name:idasem_canainpa;datatype:int,name:no_socio;datatype:string,name:rfc_socio;datatype:string,name:razon_social_socio;datatype:string,name:nombre_socio;datatype:string,name:apellido_socio;datatype:string,name:fecha_inicio;datatype:date,name:Servicio_Juridico_Capacitacion;datatype:int,name:Servicio_Contabilidad;datatype:int,name:Servicio_Admon_Personal;datatype:int,name:Servicio_Devo_IVA;datatype:int" />
+</info>

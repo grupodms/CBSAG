@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_E_Asem" value="name:idasem;datatype:int,name:idasem_canainpa;datatype:int,name:no_socio;datatype:string,name:rfc_socio;datatype:string,name:razon_social_socio;datatype:string,name:nombre_socio;datatype:string,name:apellido_socio;datatype:string,name:fecha_inicio;datatype:date,name:idServicio_Juridico_Capacitacion;datatype:int,name:idServicio_Contabilidad;datatype:int,name:idServicio_Admon_Personal;datatype:int,name:idServicio_Devo_IVA;datatype:int,name:Ultimo_Pago_Fecha;datatype:date,name:Ultimo_Fecha_Inicio;datatype:date,name:Ultimo_Fecha_Fin;datatype:date" />
+	<infoitem key="UD_Determinante" value="name:id_determinantes;datatype:int,name:clave_determinante;datatype:string,name:id_determinante_tipo;datatype:int,name:comodato;datatype:int,name:comodato_fecha;datatype:datetime,name:donacion;datatype:int,name:donacion_fecha;datatype:datetime,name:descripcion;datatype:string,name:cuenta;datatype:string,name:cuenta2;datatype:string,name:cambs;datatype:string" />
+	<infoitem key="UD_Determinante_tipo_tipo" value="name:id_determinante_tipo;datatype:int,name:deter_descripcion;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_E_Asem" value="name:idasem;datatype:int,name:idasem_canainpa;datatype:int,name:no_socio;datatype:string,name:rfc_socio;datatype:string,name:razon_social_socio;datatype:string,name:nombre_socio;datatype:string,name:apellido_socio;datatype:string,name:fecha_inicio;datatype:date,name:idServicio_Juridico_Capacitacion;datatype:int,name:idServicio_Contabilidad;datatype:int,name:idServicio_Admon_Personal;datatype:int,name:idServicio_Devo_IVA;datatype:int,name:Ultimo_Pago_Fecha;datatype:date,name:Ultimo_Fecha_Inicio;datatype:date,name:Ultimo_Fecha_Fin;datatype:date" />
+</info>

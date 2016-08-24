@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Area3" value="name:id_periodo;datatype:int,name:id_dependencia;datatype:int,name:id_determinantes;datatype:int,name:clave_dependencia;datatype:string,name:depen_descripcion;datatype:string,name:clave_determinante;datatype:string,name:descripcion;datatype:string,name:existencia;datatype:real" />
+</info>
